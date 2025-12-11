@@ -5,3 +5,11 @@ __pycache__/
 *.png
 *.pdf
 *.ipynb_checkpoints
+*.db
+# Python virtual environments
+venv/
+env/
+*/venv/
+*/env/
+exam_venv/
+*/exam_venv/
