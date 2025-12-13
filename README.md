@@ -1,7 +1,7 @@
 # DSA 2040 Practical Exam - Data Warehousing and Data Mining
 
 **Student:** Nathan Omenge  
-**Student ID:** 6377]  
+**Student ID:** 637  
 **Course:** DSA 2040 FS 2025  
 
 
